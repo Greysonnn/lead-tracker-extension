@@ -34,13 +34,12 @@ ul {
      list-style: none;
      font-weight: 600;
      padding: 0px;
- }
+}
 
 li {
     margin-top: 5px;
- }
+}
 
 a {
-    color: rgb(155, 116, 228);
-   
- }
+    color: rgb(155, 116, 228);   
+}
